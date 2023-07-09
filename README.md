@@ -1,2 +1,11 @@
-# CustomerOutflow
-learning project
+# Customer Churn
+---
+# Задача:
+Спрогнозировать отток клиентов.
+---
+# Библиотеки:
+* Logistic Regression
+* RandomForest Classifier
+* Tensor Flow
+---
+Модели со сбалансированными классами дали лучшие результаты, чем увеличение и уменьшение выборок. Accuracy на тестовых данных — 0.733
